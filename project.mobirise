@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Chi Foods",
-    "currentPage": "Home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -56,7 +56,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/chips-128x72.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ads-image-128x113.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -936,7 +936,7 @@
         }
       ]
     },
-    "Home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
